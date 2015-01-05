@@ -116,8 +116,8 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:000344_0000_0FA4AB5801746020"/>
-            <pb facs="tcp:000344_0001_0FA4AB5868FFF8C0"/>
+            <pb facs="unknown:000344_0000_0FA4AB5801746020"/>
+            <pb facs="unknown:000344_0001_0FA4AB5868FFF8C0"/>
             <p>
                <hi>Sion in Distress</hi> OR THE GROANS OF THE Protestant CHURCH.</p>
             <bibl>Lam.1.12.</bibl>
@@ -138,14 +138,14 @@
             <p>BOSTON IN NEW-ENGLAND, Printed by <hi>S.G.</hi> for <hi>Samuel Philips</hi> at the West End of the <hi>Town-House.</hi> 1683.</p>
          </div>
          <div type="to_the_reader">
-            <pb facs="tcp:000344_0002_0FA4AB5BCF97F950"/>
+            <pb facs="unknown:000344_0002_0FA4AB5BCF97F950"/>
             <head>To the READER.</head>
             <p>YOU are here presented with a <hi>Re<g ref="char:EOLhyphen"/>viv'd Poem,</hi> with such Additions and Enlargements as makes it very diffe<g ref="char:EOLhyphen"/>rent from the First Impression. It is suited to the present State of the <hi>Protestant Church,</hi> shewing the <hi>Causes</hi> of her pre<g ref="char:EOLhyphen"/>sent <hi>Calamity,</hi> with an Enumeration of some pre<g ref="char:EOLhyphen"/>vailing sins; the <hi>Plots</hi> and <hi>Contrivances</hi> of <hi>ROME</hi> against <hi>SION;</hi> the Marks of the <hi>Antiebrishi<gap reason="illegible" resp="#AELD" extent="2 letters">
                      <desc>••</desc>
                   </gap> Beast</hi> and <hi>Scarlet Whore,</hi> with her <hi>Arraigument</hi> and <hi>Condemnation,</hi> (illustrated in difficult places with Marginal Notes.) Also some probable Discove<g ref="char:EOLhyphen"/>ries of the Churches Redemption, and the ap<g ref="char:EOLhyphen"/>proaching Glory of the Latter Day.</p>
             <p>We have now a plain Prospect (by the Gracious Discoveries of Providence) of those Horrid and Execrable Plots, which the restless Adversary has contriv'd against the Peace and very Being of <hi>SION,</hi> and which were much in the dark when my Muse first bewail'd its Condition, and suspected, that this <hi>Epidemical Mischief</hi> (now Reveal'd) was then a hatching.</p>
             <p>
-               <pb facs="tcp:000344_0003_0FA4AB5D57E96620"/>
+               <pb facs="unknown:000344_0003_0FA4AB5D57E96620"/>
 In a Subject of Grief, a quaint and ornamental Method is not to be expected: for an abrupt and s<gap reason="illegible" resp="#AELD" extent="1 letter">
                   <desc>•</desc>
                </gap>bbing Delivery is more natural in the Delineati<g ref="char:EOLhyphen"/>ons of Sorrow, then a studied well poiz'd and arti<g ref="char:EOLhyphen"/>ficial Harrangue. The Subject is Divine and too lofty for so weak a <hi>M<gap reason="illegible" resp="#AELD" extent="1 letter">
@@ -161,7 +161,7 @@ In a Subject of Grief, a quaint and ornamental Method is not to be expected: for
                   </gap>igns.</hi>
             </p>
             <p>
-               <pb facs="tcp:000344_0004_0FA4AB5F2B9AB458"/>
+               <pb facs="unknown:000344_0004_0FA4AB5F2B9AB458"/>
 To promote the <hi>Just Odium</hi> of my <hi>Native Coun<g ref="char:EOLhyphen"/>trey</hi> against so <hi>destruction</hi> and <hi>malignant</hi> an <hi>Enemy,</hi> is (in part) the Design of this <hi>Essay;</hi> (which being of small bulk and price, may possibly come into more hands them larger Volumns.) If it con<g ref="char:EOLhyphen"/>tributes any thing in order to that End, it answers the Expectation of <gap reason="illegible" resp="#AELD" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap>.</p>
@@ -170,7 +170,7 @@ To promote the <hi>Just Odium</hi> of my <hi>Native Coun<g ref="char:EOLhyphen"/
             </closer>
          </div>
          <div type="poem">
-            <pb facs="tcp:000344_0005_0FA4AB600BB0B8B8"/>
+            <pb facs="unknown:000344_0005_0FA4AB600BB0B8B8"/>
             <head>To his Friend the Author, ON THE First Impression.</head>
             <l>
                <hi>WHat Muse is this, that thus inspires th<gap reason="illegible" resp="#AELD" extent="1 letter">
@@ -241,7 +241,7 @@ To promote the <hi>Just Odium</hi> of my <hi>Native Coun<g ref="char:EOLhyphen"/
             </l>
          </div>
          <div type="poem">
-            <pb facs="tcp:000344_0006_0FA4AB60A7683DD8"/>
+            <pb facs="unknown:000344_0006_0FA4AB60A7683DD8"/>
             <head>To my Friend the VTHOR; Upon His Revived Poem.</head>
             <l>
                <hi>HEre's Grief in Raptures! who could thus infuse</hi>
@@ -286,7 +286,7 @@ To promote the <hi>Just Odium</hi> of my <hi>Native Coun<g ref="char:EOLhyphen"/
                <hi>Weep Tears in Verse, when</hi> SION <hi>wants Relief?</hi>
             </l>
             <l>
-               <pb facs="tcp:000344_0007_0FA4AB61CDD1C3F8"/>
+               <pb facs="unknown:000344_0007_0FA4AB61CDD1C3F8"/>
                <hi>Such as from</hi> Art <hi>their lofty strains do <gap reason="illegible" resp="#AELD" extent="1 letter">
                      <desc>•</desc>
                   </gap>t</hi>
@@ -336,7 +336,7 @@ To promote the <hi>Just Odium</hi> of my <hi>Native Coun<g ref="char:EOLhyphen"/
       </front>
       <body>
          <div type="poem">
-            <pb facs="tcp:000344_0008_0FA4AB625CCFDAC0"/>
+            <pb facs="unknown:000344_0008_0FA4AB625CCFDAC0"/>
             <head>Sion in Distress: OR THE GROANS OF THE Protestant Church</head>
             <lg>
                <l>What dismal Vapour (in so black a form)</l>
@@ -365,7 +365,7 @@ To promote the <hi>Just Odium</hi> of my <hi>Native Coun<g ref="char:EOLhyphen"/
                <l>Clouds that so lately <hi>dissipated</hi> were,</l>
                <l>Do now conspire to make a <hi>Darker</hi> Air!</l>
                <l>
-                  <pb facs="tcp:000344_0009_0FA4AB62F6BF2AD0"/>
+                  <pb facs="unknown:000344_0009_0FA4AB62F6BF2AD0"/>
 I mourn <hi>unpitied,</hi> groan without <hi>Relief!</hi>
                </l>
                <l>No <hi>bounds</hi> not <hi>measures</hi> terminate my grief</l>
@@ -422,7 +422,7 @@ I mourn <hi>unpitied,</hi> groan without <hi>Relief!</hi>
                <l>A hellish Tribe from black <hi>Avernus</hi> flew,</l>
                <l>That <hi>Blood-hound</hi> like, me and my Lambs pursue,</l>
                <l>
-                  <pb n="3" facs="tcp:000344_0010_0FA4AB63A8E12238"/>
+                  <pb n="3" facs="unknown:000344_0010_0FA4AB63A8E12238"/>
 Lord JESUS come! O let my Cries invoke</l>
                <l>Thy sacred Presence to divert the stroke.</l>
                <l>Are all my Friends withdrawn? what is there none</l>
@@ -499,7 +499,7 @@ Lord JESUS come! O let my Cries invoke</l>
                      <hi>art thou so sadly mov'd?</hi>
                   </l>
                   <l>
-                     <pb n="4" facs="tcp:000344_0011_0FA4AB646B585810"/>
+                     <pb n="4" facs="unknown:000344_0011_0FA4AB646B585810"/>
                      <hi>Why</hi> Arms expanded, <hi>thus implore the skies?</hi>
                   </l>
                   <l>
@@ -549,7 +549,7 @@ Lord JESUS come! O let my Cries invoke</l>
                         <desc>〈◊〉</desc>
                      </gap> nine.</l>
                   <l>
-                     <pb n="5" facs="tcp:000344_0012_0FA4AB655A410220"/>
+                     <pb n="5" facs="unknown:000344_0012_0FA4AB655A410220"/>
 Our Ancient <hi>Laws,</hi> subvert <hi>Religion,</hi> and</l>
                   <l>Bow <hi>England's</hi> Neck to <hi>Antichrists</hi> command;</l>
                   <l>Were but <hi>Prelndi<gap reason="illegible" resp="#AELD" extent="2 letters">
@@ -592,7 +592,7 @@ Our Ancient <hi>Laws,</hi> subvert <hi>Religion,</hi> and</l>
                   <l>Let every Loyal <hi>Eye</hi> that sees it there,</l>
                   <l>Yield to his Name the Tribute of a Tear,</l>
                   <l>
-                     <pb n="6" facs="tcp:000344_0013_0FA4AB65EAA38AE8"/>
+                     <pb n="6" facs="unknown:000344_0013_0FA4AB65EAA38AE8"/>
                      <hi>Brave Soul!</hi> Thy Love and Loyalty do claim</l>
                   <l>That <hi>King</hi> and <hi>People</hi> should proclaim thy <hi>Name,</hi>
                   </l>
@@ -636,7 +636,7 @@ Our Ancient <hi>Laws,</hi> subvert <hi>Religion,</hi> and</l>
                   <l>Of choicest Liquors this she calls the first,</l>
                   <l>To chear her sinking heart, and quench her thirst,</l>
                   <l>
-                     <pb n="7" facs="tcp:000344_0014_0FA4AB675611BFF0"/>
+                     <pb n="7" facs="unknown:000344_0014_0FA4AB675611BFF0"/>
 Fearing <hi>Miscarriage,</hi> when her Spirits fai<gap reason="illegible" resp="#AELD" extent="1 letter">
                         <desc>•</desc>
                      </gap>,</l>
@@ -703,7 +703,7 @@ Fearing <hi>Miscarriage,</hi> when her Spirits fai<gap reason="illegible" resp="
                         <desc>•</desc>
                      </gap>se:</l>
                   <l>
-                     <pb n="8" facs="tcp:000344_0015_0FA4AB67735B2BC8"/>
+                     <pb n="8" facs="unknown:000344_0015_0FA4AB67735B2BC8"/>
 And could their Tears increase into a Flood,</l>
                   <l>'Twere no excess—So much I price his Blood,</l>
                   <l>But other grounds of Grief are in mine eye,</l>
@@ -743,7 +743,7 @@ And could their Tears increase into a Flood,</l>
                   <l>Tho God (incens'd) has fearful <hi>Judgements</hi> sent,</l>
                   <l>To humble men, and move them to repent;</l>
                   <l>
-                     <pb n="9" facs="tcp:000344_0016_0FA4AB6826C34378"/>
+                     <pb n="9" facs="unknown:000344_0016_0FA4AB6826C34378"/>
 Yet they proceed in foul Impenitence,</l>
                   <l>And aggravate their horrid Insolence;</l>
                   <l>Seeming to bid Defiences to Heaven,</l>
@@ -792,7 +792,7 @@ Yet they proceed in foul Impenitence,</l>
                      </l>
                      <l>Observe the mode how they each other greet.</l>
                      <l>
-                        <pb n="10" facs="tcp:000344_0017_0FA4AB6978603488"/>
+                        <pb n="10" facs="unknown:000344_0017_0FA4AB6978603488"/>
 What new coin'd <hi>oaths,</hi> what modish <hi>
                            <gap reason="illegible" resp="#AELD" extent="1 letter">
                               <desc>•</desc>
@@ -833,7 +833,7 @@ What new coin'd <hi>oaths,</hi> what modish <hi>
                      <l>Think'st thou the God of Purity does like</l>
                      <l>Such ways, because he yet forbears to strike?</l>
                      <l>
-                        <pb n="11" facs="tcp:000344_0018_0FA4AB6A0B567740"/>
+                        <pb n="11" facs="unknown:000344_0018_0FA4AB6A0B567740"/>
 Dost think a gloomy interposing Cloud,</l>
                      <l>From God's all-searching Eye can be thy shroud<gap reason="illegible" resp="#AELD" extent="1 letter">
                            <desc>•</desc>
@@ -892,7 +892,7 @@ Dost think a gloomy interposing Cloud,</l>
                      <l>By <hi>daily swallowing Liquor to excess,</hi>
                      </l>
                      <l>
-                        <pb n="12" facs="tcp:000344_0019_0FA4AB6B7132F880"/>
+                        <pb n="12" facs="unknown:000344_0019_0FA4AB6B7132F880"/>
 Defile the Land, and do the Lord provoke,</l>
                      <l>To cause his Vengeance on the Land to smoak.</l>
                      <l>Sin sets the door wide open and makes way</l>
@@ -934,7 +934,7 @@ Defile the Land, and do the Lord provoke,</l>
                      <l>But O what dismal Consequences wait</l>
                      <l>For speedy entrance at the wretches gate!</l>
                      <l>
-                        <pb n="13" facs="tcp:000344_0020_0FA4AB6BE54BB6D8"/>
+                        <pb n="13" facs="unknown:000344_0020_0FA4AB6BE54BB6D8"/>
 For lewd Embraces of lascivious Dames</l>
                      <l>Will rot their <hi>bones,</hi> breed cankers in their <hi>names,</hi>
                      </l>
@@ -975,7 +975,7 @@ For lewd Embraces of lascivious Dames</l>
                            <desc>•</desc>
                         </gap>:</l>
                      <l>
-                        <pb n="14" facs="tcp:000344_0021_0FA4AB6EE06DA6A8"/>
+                        <pb n="14" facs="unknown:000344_0021_0FA4AB6EE06DA6A8"/>
                         <hi>But Whoremongers God judges, and they shall</hi>
                      </l>
                      <l>
@@ -1022,7 +1022,7 @@ For lewd Embraces of lascivious Dames</l>
                      <l>On th' <hi>Universal Fabrick</hi> cast an eye,</l>
                      <l>The Sea, the Earth, and expanded Sky;</l>
                      <l>
-                        <pb n="15" facs="tcp:000344_0022_0FA4AB6EF0A95A08"/>
+                        <pb n="15" facs="unknown:000344_0022_0FA4AB6EF0A95A08"/>
 Can so Sublime illustrious an Effect</l>
                      <l>Be form'd without a glorious Architect?</l>
                      <l>If Reason be your Rule, true Logicks Laws</l>
@@ -1054,7 +1054,7 @@ Can so Sublime illustrious an Effect</l>
                      <l>With Reasons Maxims: For all things that be,</l>
                      <l>May say they are their own Divinity,</l>
                      <l>
-                        <pb n="16" facs="tcp:000344_0023_0FA4AB70E0F0D0C8"/>
+                        <pb n="16" facs="unknown:000344_0023_0FA4AB70E0F0D0C8"/>
 If each can make it self, and that which can</l>
                      <l>Create it self, can so it self sustain</l>
                      <l>
@@ -1092,7 +1092,7 @@ If each can make it self, and that which can</l>
                      <l>Can Reason brag that Causes Natural</l>
                      <l>Could raise the Dead? or that a word can call</l>
                      <l>
-                        <pb n="17" facs="tcp:000344_0024_0FA4AB71280A88B8"/>
+                        <pb n="17" facs="unknown:000344_0024_0FA4AB71280A88B8"/>
 An <hi>Intomb'd Carcass</hi> to behold the light?</l>
                      <l>Make <hi>sound a Cripple?</hi> give the <hi>blind</hi> their sight?</l>
                      <l>If not, then surely it will follow hence,</l>
@@ -1152,7 +1152,7 @@ An <hi>Intomb'd Carcass</hi> to behold the light?</l>
                            </gap>risie.</hi>
                      </l>
                      <l>
-                        <pb n="18" facs="tcp:000344_0025_0FA4AB71EFA6E5F8"/>
+                        <pb n="18" facs="unknown:000344_0025_0FA4AB71EFA6E5F8"/>
 Do so abound through our enlightned Isle,</l>
                      <l>That <hi>Sodom</hi> hardly e'er appear'd more vile.</l>
                   </lg>
@@ -1193,7 +1193,7 @@ Do so abound through our enlightned Isle,</l>
                      </l>
                      <l>Upon my <hi>Face,</hi> but <hi>cut my throat</hi> the while.</l>
                      <l>
-                        <pb n="19" facs="tcp:000344_0026_0FA4AB72C223DA00"/>
+                        <pb n="19" facs="unknown:000344_0026_0FA4AB72C223DA00"/>
                         <hi>But grant, Dread Soveraign of the Universe,</hi>
                      </l>
                      <l>
@@ -1243,7 +1243,7 @@ Do so abound through our enlightned Isle,</l>
                      <l>Against rebellious and polluted Coasts,</l>
                      <l>By Him who is the mighty Lord of Hosts.</l>
                      <l>
-                        <pb n="20" facs="tcp:000344_0027_0FA4AB7377216F10"/>
+                        <pb n="20" facs="unknown:000344_0027_0FA4AB7377216F10"/>
 Awake O <hi>England!</hi> this <hi>Lethargick steep</hi>
                      </l>
                      <l>Is out of <hi>season,</hi> 'tis a time to weep;</l>
@@ -1291,7 +1291,7 @@ Awake O <hi>England!</hi> this <hi>Lethargick steep</hi>
                            </gap>acious Boar?</hi>
                      </l>
                      <l>
-                        <pb facs="tcp:000344_0028_0FA4AB74624DB918"/>
+                        <pb facs="unknown:000344_0028_0FA4AB74624DB918"/>
 Or have my <hi>Childrens</hi> crying Sins provok'd</l>
                      <l>That dismal <hi>Sentence,</hi> not to be revok'd?</l>
                      <l>(Gods Methods were to chasten, not destroy</l>
@@ -1356,7 +1356,7 @@ Or have my <hi>Childrens</hi> crying Sins provok'd</l>
                      <hi>Since such brave</hi> Heroes <hi>represent the Nation,</hi>
                   </l>
                   <l>
-                     <pb facs="tcp:000344_0029_0FA4AB75706EE918"/>
+                     <pb facs="unknown:000344_0029_0FA4AB75706EE918"/>
                      <hi>
                         <gap reason="illegible" resp="#AELD" extent="1 word">
                            <desc>〈◊〉</desc>
@@ -1419,7 +1419,7 @@ Or have my <hi>Childrens</hi> crying Sins provok'd</l>
                   <l>Why should my Friends a Virgin-Church pollute</l>
                   <l>With any Relicks of that Prostitute?</l>
                   <l>
-                     <pb facs="tcp:000344_0030_0FA4AB75AC5E6218"/>
+                     <pb facs="unknown:000344_0030_0FA4AB75AC5E6218"/>
 Why Gawdy things, that never had a Name</l>
                   <l>In sacred Records, our Profession shame?</l>
                   <l>Why are our <hi>Rites</hi> enamel'd with their <hi>Gloss?</hi>
@@ -1460,7 +1460,7 @@ Why Gawdy things, that never had a Name</l>
                   <l>These not content with my Coelestial Diet,</l>
                   <l>Do run with others to excess of Riot.</l>
                   <l>
-                     <pb facs="tcp:000344_0031_0FA4AB77174C7658"/>
+                     <pb facs="unknown:000344_0031_0FA4AB77174C7658"/>
                      <gap reason="illegible" resp="#AELD" extent="1 word">
                         <desc>〈◊〉</desc>
                      </gap> to be <hi>popular,</hi> away would give</l>
@@ -1516,7 +1516,7 @@ Why Gawdy things, that never had a Name</l>
                      <hi>To</hi> such a Pitch!—Some <hi>Husbands</hi> and some</l>
                   <l>Do lead such shameful, such unfavoury Lives;</l>
                   <l>
-                     <pb facs="tcp:000344_0032_0FA4AB7728E77F20"/>
+                     <pb facs="unknown:000344_0032_0FA4AB7728E77F20"/>
 Whilest mutually at strife, they do impeach</l>
                   <l>That Name that should be very dear to each:</l>
                   <l>Such Pride, such surly, dogged <hi>reprehension</hi>
@@ -1553,7 +1553,7 @@ Whilest mutually at strife, they do impeach</l>
                   <l>O! then's the time to give 'em Form and Mold;</l>
                   <l>For Trees admit no bending that are old.</l>
                   <l>
-                     <pb facs="tcp:000344_0033_0FA4AB78D7C111E8"/>
+                     <pb facs="unknown:000344_0033_0FA4AB78D7C111E8"/>
                      <gap reason="illegible" resp="#AELD" extent="1 word">
                         <desc>〈◊〉</desc>
                      </gap> timely sow such <hi>seed</hi> they would have grow,</l>
@@ -1599,7 +1599,7 @@ Whilest mutually at strife, they do impeach</l>
                         <desc>〈◊〉</desc>
                      </gap> of Accounts) will come.</l>
                   <l>
-                     <pb facs="tcp:000344_0034_0FA4AB796DC7F498"/>
+                     <pb facs="unknown:000344_0034_0FA4AB796DC7F498"/>
 How dare you run this vile <hi>Carter,</hi> till Deam,</l>
                   <l>Like a <hi>Grim Serj<gap reason="illegible" resp="#AELD" extent="1 letter">
                            <desc>•</desc>
@@ -1647,7 +1647,7 @@ How dare you run this vile <hi>Carter,</hi> till Deam,</l>
                </lg>
             </div>
             <div type="part">
-               <pb facs="tcp:000344_0035_0FA4AB7B433AA900"/>
+               <pb facs="unknown:000344_0035_0FA4AB7B433AA900"/>
                <head>SION.</head>
                <lg>
                   <l>
@@ -1683,7 +1683,7 @@ How dare you run this vile <hi>Carter,</hi> till Deam,</l>
                   <l>So <hi>nice</hi> and <hi>delicate,</hi> in choice of Meat,</l>
                   <l>Whilst their poor <hi>Brethren</hi> scarce have <hi>bread</hi> to eat.</l>
                   <l>
-                     <pb n="29" facs="tcp:000344_0036_0FA4AB7BA57320B0"/>
+                     <pb n="29" facs="unknown:000344_0036_0FA4AB7BA57320B0"/>
 Merchants and Traders have a nimble Art</l>
                   <l>To sum their <hi>Shop books,</hi> but neglect the Heart;</l>
                   <l>For that they think there's time enough, and look</l>
@@ -1717,7 +1717,7 @@ Merchants and Traders have a nimble Art</l>
                   <l>Helping the Weak, is turn'd into a slighting;</l>
                   <l>Gospel Reprooss perverted to back biting.</l>
                   <l>
-                     <pb n="30" facs="tcp:000344_0037_0FA4AB7C9448F670"/>
+                     <pb n="30" facs="unknown:000344_0037_0FA4AB7C9448F670"/>
 Many that do of God their <hi>Mercy</hi> crave,</l>
                   <l>Yet on the <hi>Needy</hi> little <hi>Mercy</hi> have;</l>
                   <l>All owe their <hi>Blessings</hi> to the God of Love,</l>
@@ -1767,7 +1767,7 @@ Many that do of God their <hi>Mercy</hi> crave,</l>
                   <l>For trivial things? do they not all agree</l>
                   <l>In <hi>Fundamentals</hi> of Divinity?</l>
                   <l>
-                     <pb n="31" facs="tcp:000344_0038_0FA4AB7D2BEBE580"/>
+                     <pb n="31" facs="unknown:000344_0038_0FA4AB7D2BEBE580"/>
 Is there no room for Love? or must that Grace</l>
                   <l>Among my <hi>Children,</hi> have no proper place?</l>
                   <l>Why must one <hi>Saint</hi> be angry with his <hi>Brother</hi>
@@ -1802,7 +1802,7 @@ Is there no room for Love? or must that Grace</l>
                   <l>Their Crafty Agents do creep in among</l>
                   <l>Our heedless Parties, and divide the throng,</l>
                   <l>
-                     <pb n="32" facs="tcp:000344_0039_0FA4AB7DEDE1B270"/>
+                     <pb n="32" facs="unknown:000344_0039_0FA4AB7DEDE1B270"/>
 That with more Ease they may us all devour,</l>
                   <l>Destroy our <hi>Nation,</hi> and subvert our power.</l>
                   <l>Why therefore do not <hi>Protestants</hi> agree</l>
@@ -1852,7 +1852,7 @@ That with more Ease they may us all devour,</l>
                      </gap>
                   </l>
                   <l>
-                     <pb n="33" facs="tcp:000344_0040_0FA4AB7EA605C3C0"/>
+                     <pb n="33" facs="unknown:000344_0040_0FA4AB7EA605C3C0"/>
 In such you all, will certainly agree;</l>
                   <l>(O happy <hi>Model</hi> of sweet <hi>Unity:</hi>)</l>
                   <l>Let none that to those <hi>Principles</hi> do stick,</l>
@@ -1891,7 +1891,7 @@ In such you all, will certainly agree;</l>
                   <l>But if you fail, then leave him to his God,</l>
                   <l>Who can reform, or punish with a Rod,</l>
                   <l>
-                     <pb n="34" facs="tcp:000344_0041_0FA4AB8259A3FAE8"/>
+                     <pb n="34" facs="unknown:000344_0041_0FA4AB8259A3FAE8"/>
 Your work is done, you have discharg'd the part</l>
                   <l>Of <hi>Friend</hi> or <hi>Brother,</hi> of a <hi>Christian heart.</hi>
                   </l>
@@ -1933,7 +1933,7 @@ Your work is done, you have discharg'd the part</l>
                </lg>
             </div>
             <div type="part">
-               <pb n="35" facs="tcp:000344_0042_0FA4AB8287230AA8"/>
+               <pb n="35" facs="unknown:000344_0042_0FA4AB8287230AA8"/>
                <head>SION'S Children.</head>
                <lg>
                   <l>
@@ -1990,7 +1990,7 @@ Your work is done, you have discharg'd the part</l>
                   <l>So great <hi>Conversion,</hi> that those former days</l>
                   <l>Did feel its blest and universal Rays.</l>
                   <l>
-                     <pb n="36" facs="tcp:000344_0043_0FA4AB83EFD87578"/>
+                     <pb n="36" facs="unknown:000344_0043_0FA4AB83EFD87578"/>
 A general <hi>Heat</hi> did warm this happy <hi>Nation,</hi>
                   </l>
                   <l>From its benign and pow'rful <hi>Operation:</hi>
@@ -2036,7 +2036,7 @@ A general <hi>Heat</hi> did warm this happy <hi>Nation,</hi>
                   <l>How many active Guides, most dearly lov'd</l>
                   <l>By Me, have been in little time remov'd;</l>
                   <l>
-                     <pb n="37" facs="tcp:000344_0044_0FA4AB85995C1890"/>
+                     <pb n="37" facs="unknown:000344_0044_0FA4AB85995C1890"/>
 Scarce can I dry mine Eyes for loss of one,</l>
                   <l>But News arrives of many others gone:</l>
                   <l>If that my Head were waters, and each Eye</l>
@@ -2076,7 +2076,7 @@ Scarce can I dry mine Eyes for loss of one,</l>
                   <l>Their cursed <hi>products</hi> are resolves of Night,</l>
                   <l>Like silent Currs, that in the dark do bite.</l>
                   <l>
-                     <pb n="38" facs="tcp:000344_0045_0FA4AB86475793E0"/>
+                     <pb n="38" facs="unknown:000344_0045_0FA4AB86475793E0"/>
 Another <hi>symptom</hi> of the days declension,</l>
                   <l>Is when the <hi>shadows</hi> do increase dimension:</l>
                   <l>So when I look about, I plainly see</l>
@@ -2120,7 +2120,7 @@ Another <hi>symptom</hi> of the days declension,</l>
                   <l>Once <hi>Happy Isle, I</hi> grieve at thy condition:</l>
                   <l>Where's thy <hi>Repentance?</hi> where is thy Contrition</l>
                   <l>
-                     <pb n="39" facs="tcp:000344_0046_0FA4AB870C4FD718"/>
+                     <pb n="39" facs="unknown:000344_0046_0FA4AB870C4FD718"/>
 Thou hast been counted our <hi>Emanuel's</hi> Land,</l>
                   <l>The Gospel seems on <hi>Tip toe</hi> now to stand,</l>
                   <l>To bid thee <hi>farewel:</hi> Must thy Sun so soon</l>
@@ -2188,7 +2188,7 @@ Thou hast been counted our <hi>Emanuel's</hi> Land,</l>
                         <desc>•</desc>
                      </gap>d tears,</l>
                   <l>
-                     <pb n="40" facs="tcp:000344_0047_0FA4AB87F8514C20"/>
+                     <pb n="40" facs="unknown:000344_0047_0FA4AB87F8514C20"/>
 My boundless, helpless grief wide open sets</l>
                   <l>The Sluces for its streaming Rivulets.</l>
                   <l>The very Air drest in prodigious Forms,</l>
@@ -2242,7 +2242,7 @@ My boundless, helpless grief wide open sets</l>
                   <l>Must <hi>Pestilence</hi> insect our <hi>Purer Air.</hi>
                   </l>
                   <l>
-                     <pb n="41" facs="tcp:000344_0048_0FA4AB88833CEF08"/>
+                     <pb n="41" facs="unknown:000344_0048_0FA4AB88833CEF08"/>
 Must <hi>Sodom</hi> be translated to our <hi>Isle,</hi>
                   </l>
                   <l>And filthy <hi>Priests</hi> our chastity <hi>defile?</hi>
@@ -2301,7 +2301,7 @@ Must <hi>Sodom</hi> be translated to our <hi>Isle,</hi>
                      <hi>Whence came he first? and of what date's his Reign?</hi>
                   </l>
                   <l>
-                     <pb n="42" facs="tcp:000344_0049_0FA4AB8A497255C0"/>
+                     <pb n="42" facs="unknown:000344_0049_0FA4AB8A497255C0"/>
                      <hi>Give us his</hi> Marks, <hi>that we may surely know him,</hi>
                   </l>
                   <l>
@@ -2337,7 +2337,7 @@ Must <hi>Sodom</hi> be translated to our <hi>Isle,</hi>
                <head>SION.</head>
                <l>THis <hi>Beast</hi> above <note n="(a)" place="bottom">
                      <hi>The most diligent and industrious Searchers into the the</hi> Epocha, <hi>or beginning of Antichrist, as the learn<g ref="char:EOLhyphen"/>ed</hi> Mede, Alstedius, <hi>Mr.T.L. in his Book intituled</hi> A voice out of the Wilderness, <hi>Mr.</hi> Brightman, Tillinghast, <hi>with several other Eminent Men, seem harmoniously to agree that the Beast began his forty two Moneths, or one thousand two hundred and sixty (Prophetical) Day or Years, between the years 365. and 455. and therefore must consequently and in a short time. See Mr.</hi> Mede, <hi>Page 600. &amp; 601. To confirm which, the witness of the best Chronologers, Historians and Antiquaries concur; as also the po<g ref="char:EOLhyphen"/>sture 
-<pb n="43" facs="tcp:000344_0050_0FA4AB8B09BB8808"/>
+<pb n="43" facs="unknown:000344_0050_0FA4AB8B09BB8808"/>
 of the Worlds Affairs, the unusual working of things, and the awakening Providences of God; which makes us hope, as Mr.</hi> Withers <hi>affirms,</hi> That that glorious Revolution will be in this present Age. <hi>And though famous</hi> Du Moulin, <hi>and some others, speak not of the</hi> Popes <hi>claiming the Title of</hi> Univer<g ref="char:EOLhyphen"/>sal Bishop, <hi>till about the year</hi> 604. <hi>or</hi> 606. <hi>when the Traitor</hi> Phocas <hi>by the help of</hi> Boniface <hi>the</hi> 3d. <hi>mar<g ref="char:EOLhyphen"/>d<gap reason="illegible" resp="#AELD" extent="1 letter">
                            <desc>•</desc>
                         </gap>red the Emperour</hi> Mauritius, <hi>(in requital of which the Usurper</hi> Phocas <hi>gave the said</hi> Boniface <hi>that blasphemous Title, and decreed that the</hi> Roman <hi>Church</hi> should be head of all Churches; <hi>which</hi> Platina a Papist, <hi>and a writer of the</hi> Popes <hi>Lives agrees to; as</hi> Beda, de 6. AEtat. Mundi, Paul. Dia<g ref="char:EOLhyphen"/>con. rer. Rom. 18. Histor. Longob. Lib.4.11. A<g ref="char:EOLhyphen"/>nast. Bibl. Vit. Bon.3. Ado. AEtat. 6. Reg. Chron. I. Aimon de gest, Franc. Lib.4.C.4.) <hi>Yet the same</hi> Du Moulin <hi>seems positively to affirm, that the Perse<g ref="char:EOLhyphen"/>cution of the Church under the</hi> Pope, <hi>shall have an end in (or about) the Year, 1689. See his Book exti<g ref="char:EOLhyphen"/>tuled,</hi> The Accomplishment of the Prophecies, <hi>Pag. 412. this term once expired</hi> (saith he) <hi>the truth that was opprest shall lift up her head afresh, and the</hi> Witnesses <hi>shall be seen to stand up again, who shall astonish the Church of</hi> Rome, <hi>&amp;c.</hi>
@@ -2348,7 +2348,7 @@ of the Worlds Affairs, the unusual working of things, and the awakening Providen
                   <hi>The Man of Sin,</hi>
                </l>
                <l>
-                  <pb n="44" facs="tcp:000344_0051_0FA4AB8B83247950"/>
+                  <pb n="44" facs="unknown:000344_0051_0FA4AB8B83247950"/>
 This Introducer of blind Superstition,</l>
                <l>Is stil'd in <hi>Holy Writ,</hi> 
                   <note n="(c)" place="bottom">Son of Perdition, is also an <hi>Hebraism,</hi> and denotes, One designed for destruction, as a hope<g ref="char:EOLhyphen"/>less and graceless Wretch. <hi> C<gap reason="illegible" resp="#AELD" extent="1 letter">
@@ -2371,7 +2371,7 @@ This Introducer of blind Superstition,</l>
                <l>By whom three more up by the Roots were torn,</l>
             </div>
             <div type="part">
-               <pb n="45" facs="tcp:000344_0052_0FA4AB8C2E5A3DD0"/>
+               <pb n="45" facs="unknown:000344_0052_0FA4AB8C2E5A3DD0"/>
                <head>The Marks of the Beast.</head>
                <div n="1" type="mark">
                   <head>First MARK.</head>
@@ -2381,14 +2381,14 @@ This Introducer of blind Superstition,</l>
                               <hi>viz.</hi>
                            </abbr> 
                            <hi>H</hi>e shall not be revealed until there come a falling away first, as <hi>2 Thess.2.3.</hi> The Revelation of Antichrist was then to be, when there should appear some eminent Defection in the Church. Now antiquity clearly makes out when that Apostacy was; it began very early: it is affirmed by 
-<pb n="46" facs="tcp:000344_0053_0FA4AB8D7725DBE0"/>
+<pb n="46" facs="unknown:000344_0053_0FA4AB8D7725DBE0"/>
                            <hi>some, The Church did not continue a pure Virgin, nor retained her Primitive Purity, longer then one hun<g ref="char:EOLhyphen"/>dred <gap reason="illegible" resp="#AELD" extent="1 word">
                                  <desc>〈◊〉</desc>
                               </gap> But however, all approved Historians agree, that about the beginning of the Fourth Centu<g ref="char:EOLhyphen"/>ry, the Apostacy of which the Apostle speaketh, was visible, and fully manifested:</hi> Joan. Wolfius, <hi>out of</hi> Jerom, <hi>saith,</hi> That about the year 390. the Law perished from the Priest, and the Vision from the Prophet; Avarice and Corruption crept into the Church; they condemned Meats and Marriage, and yet gave themselves up to luxurious Banquets and Uncleanness. <hi>In the Year 326. it was endea<g ref="char:EOLhyphen"/>voured in the Council of</hi> Nice, <hi>to cause Bishops and Elders to refrain from their Wives.</hi> See Alsted in Chronologia testium Veritatis. <hi>Also the said</hi> Wolfius <hi>alledgeth a saying out of</hi> Augustine, <hi>ap<g ref="char:EOLhyphen"/>plying it to the Year 399. who speaketh thus:</hi> That Religion about that time was corrupted with Traditions and humane Rites; That the condition of the Jews under the Law, was easier then that of Christians under the Gospel. Dionysius <hi>in an Epistle hinteth that</hi> they were burdened with Ce<g ref="char:EOLhyphen"/>remonies and Traditions that were obtruded and laid upon Christians; <hi>and that</hi> the Sacraments both of Baptism and the Lords Supper, suffered great mutation, and was grievously corrupted. <hi>Also we find</hi> Chrysostom <hi>declaiming</hi> against the <hi>Bi<g ref="char:EOLhyphen"/>shop of</hi> Rome, <hi>concerning</hi> Purgatory; <hi>which thing is applied to the Year 410. or thereabouts. Besides, we find mention made of</hi> worshipping of Images, <hi>which is reprehended by one</hi> Amphilocus <hi>Bishop o<gap reason="illegible" resp="#AELD" extent="1 letter">
                                  <desc>•</desc>
                               </gap>
                            </hi> Iconium, <hi>as also by</hi> Epiphanius, <hi>whom we find speaking thus:</hi> Whence is this Image-worship, and Design of the Devil? <hi>And a little after he saith.</hi> Be mindful, my beloved Children, that ye bring not Images into the Church, but bear about God in your hearts.</note>
-                        <pb n="45" facs="tcp:000344_0052_0FA4AB8C2E5A3DD0"/>
+                        <pb n="45" facs="unknown:000344_0052_0FA4AB8C2E5A3DD0"/>
 declares he shall arise</l>
                      <l>Not till a day of great <hi>Apostacy</hi>
                      </l>
@@ -2404,7 +2404,7 @@ declares he shall arise</l>
                   </lg>
                </div>
                <div n="2" type="mark">
-                  <pb n="47" facs="tcp:000344_0054_0FA4AB8DA60FA318"/>
+                  <pb n="47" facs="unknown:000344_0054_0FA4AB8DA60FA318"/>
                   <head>The Second MARK.</head>
                   <lg>
                      <l>WHen <hi>Romes</hi> great <hi>Empire</hi> to its Period came,</l>
@@ -2415,7 +2415,7 @@ declares he shall arise</l>
                            <hi>the Heathen Empire, which in the Apo<g ref="char:EOLhyphen"/>stles time * did lett or hinder his Rise; he that now letteth will lett, until he be taken out of the way, &amp; the<gap reason="illegible" resp="#AELD" extent="1 letter">
                                  <desc>•</desc>
                               </gap> shall that wicked one be revealed,</hi> &amp;c. The Em<g ref="char:EOLhyphen"/>pire (<hi>saith</hi> Du Moulin) which did bear rule, must 
-<pb n="48" facs="tcp:000344_0055_0FA4AB8E6E89A2A0"/>
+<pb n="48" facs="unknown:000344_0055_0FA4AB8E6E89A2A0"/>
 be abolished, and out of the Ruins thereof the <hi>Son of Perdition</hi> is made manifest, and exalts himself: the Emperors hindred him, but the Empire being decayed in the West, and diminished in the East by the <hi>Saracens,</hi> the <hi>Pope</hi> found means to seize up<g ref="char:EOLhyphen"/>on the chief City of the Empire, together with great part of <hi>Italy,</hi> and to devour the Neighbour<g ref="char:EOLhyphen"/>ing Churches and Realms at his pleasure. <hi>Du Moulin,</hi> ubi supra, <hi>p.</hi>119. That this was the gene<g ref="char:EOLhyphen"/>ral Opinion of Antiquity, may be seen in <hi>Tertu<gap reason="illegible" resp="#AELD" extent="2 letters">
                                  <desc>••</desc>
                               </gap>ian,</hi> Lib. de Resurrect. <hi>Cap.24.Chrysost.</hi> 4 Sermon on <hi>2 Thes.</hi> The Greek <hi>Scholiast.</hi> in loc. August <hi>de ci<g ref="char:EOLhyphen"/>vita<gap reason="illegible" resp="#AELD" extent="1 letter">
@@ -2427,7 +2427,7 @@ be abolished, and out of the Ruins thereof the <hi>Son of Perdition</hi> is made
                               </gap>nius</hi> his History of the Kingdom of <hi>Italy:</hi> In the begin<g ref="char:EOLhyphen"/>ning of his third Book he shews how Pope <hi>Gregory</hi> the Second, because the Emperor opposed his set<g ref="char:EOLhyphen"/>ting up of Images in the Church, forbad the People to pay Tribute to him, and not so much as once to name him in their Publick Service, <hi>Du Moulin</hi> P. <gap reason="illegible" resp="#AELD" extent="1 letter">
                               <desc>•</desc>
                            </gap>57. This then being out of question, <hi>to wit,</hi> That the <hi>Roman Empire</hi> whereof St. <hi>Paul</hi> speaks, is al<g ref="char:EOLhyphen"/>ready ruined, and that the Bishop of <hi>Rome</hi> there<g ref="char:EOLhyphen"/>upon rose to that height of Pride and Blasphemy, it must needs follow that the <hi>Son of Perdition</hi> is re<g ref="char:EOLhyphen"/>vealed, and that this is he.</note> 
-                        <pb n="47" facs="tcp:000344_0054_0FA4AB8DA60FA318"/>
+                        <pb n="47" facs="unknown:000344_0054_0FA4AB8DA60FA318"/>
 usurpt the same,</l>
                      <l>By hellish Craft he makes that Seat his own,</l>
                      <l>And forms <hi>Regalia's</hi> to a Tripple Crown.</l>
@@ -2440,7 +2440,7 @@ usurpt the same,</l>
                   </lg>
                </div>
                <div n="3" type="mark">
-                  <pb n="49" facs="tcp:000344_0056_0FA4AB8F56500940"/>
+                  <pb n="49" facs="unknown:000344_0056_0FA4AB8F56500940"/>
                   <head>The Third MARK.</head>
                   <lg>
                      <l>AT first from mean estate <note n="(1)" place="bottom">This Beast (saith <hi>Du Moulin</hi>) rose from a small beginning and mean estate, signified by a <hi>little Horn</hi> in <hi>Deniels</hi> Prophecy, and in the <hi>Revela<g ref="char:EOLhyphen"/>tions</hi> of St. <hi>John</hi> by his rising out of the Earth, ac<g ref="char:EOLhyphen"/>cording as the <hi>Latines</hi> call such as get up <gap reason="illegible" resp="#AELD" extent="3 letters">
@@ -2467,7 +2467,7 @@ usurpt the same,</l>
                   </lg>
                </div>
                <div n="4" type="mark">
-                  <pb n="50" facs="tcp:000344_0057_0FA4AB9019646590"/>
+                  <pb n="50" facs="unknown:000344_0057_0FA4AB9019646590"/>
                   <head>The Fourth MARK.</head>
                   <lg>
                      <l>
@@ -2497,7 +2497,7 @@ usurpt the same,</l>
                      <l>He like a Peerless Potentate does now</l>
                      <l>Make Sov'raign <hi>Thrones,</hi> and Crowned <hi>Monarchs</hi> bow</l>
                      <l>
-                        <pb n="51" facs="tcp:000344_0058_0FA4AB90C8186B10"/>
+                        <pb n="51" facs="unknown:000344_0058_0FA4AB90C8186B10"/>
                         <note n="(3)" place="bottom">Pope <hi>Adrian</hi> 4. made the Emperour <hi>Frederick</hi> 1. to hold his Stirrup, and child him for holding the wrong one, <hi>Balaus in Act. Rom. pont. in vit.</hi> Adri<g ref="char:EOLhyphen"/>an 4.</note> Some hold his Stirrup, <note n="(4)" place="bottom">
                            <hi>Gregory</hi> 7. made the Emperour <hi>Henry</hi> 4. his Empress and Child, to wait three days and three nights, in a Frosty Season, bare-footed, and bare<g ref="char:EOLhyphen"/>legged, before his Gates, before they could get Audience. <hi>Id in vit.</hi> Gregor.7.</note> some are made to wait</l>
                      <l>Three <hi>Frosty Nights</hi> bare-footed at his Gate.</l>
@@ -2508,7 +2508,7 @@ usurpt the same,</l>
                   </lg>
                </div>
                <div n="5" type="mark">
-                  <pb n="52" facs="tcp:000344_0059_0FA4AB91A9BF0AD0"/>
+                  <pb n="52" facs="unknown:000344_0059_0FA4AB91A9BF0AD0"/>
                   <head>The Fifth MARK.</head>
                   <lg>
                      <l>ANother <hi>Mark,</hi> He in Gods Temple fits,</l>
@@ -2529,7 +2529,7 @@ usurpt the same,</l>
                         </gap>. Theodor. Am<g ref="char:EOLhyphen"/>bros. Primus Anselm. Severian. apud ipsum.</hi> Be<g ref="char:EOLhyphen"/>sides it was to be in a City with 7 Hills, and where 7 Kings or Supream Magistrates were or had been, which agrees to no City but <hi>Rome,</hi> as is de<g ref="char:EOLhyphen"/>monstrated by <hi>Peter du Moulin</hi> and others; if it be objected, that the <hi>Church</hi> of <hi>Rome</hi> at the time of <hi>Antichrist's</hi> Rise, could not be the Temple of God, because upon the great Apostacy that denomina<g ref="char:EOLhyphen"/>tion ceases<gap reason="illegible" resp="#AELD" extent="1 letter">
                         <desc>•</desc>
                      </gap> it is <hi>Answered,</hi> It might be called the Church and Temple of God then, though the Presence of God and the true Religion and Power of Godliness was gone, it might retain the Name; as Royal Palaces keep their Names when
-<pb n="53" facs="tcp:000344_0060_0FA4AB922B693C48"/>
+<pb n="53" facs="unknown:000344_0060_0FA4AB922B693C48"/>
 ruined; 'tis said, <hi>Isai.1.21. How is the faithful Ci<g ref="char:EOLhyphen"/>ty bec<gap reason="illegible" resp="#AELD" extent="1 letter">
                            <desc>•</desc>
                         </gap>me an Harlot?</hi> Could she be a faithful City and a Harlot too? The meaning is, she was so, but now thus; so <hi>Mat.11.5. Mark.7.</hi> ult. 'tis said <hi>The blind see, the deaf hear, the dumb speak, the lame walk,</hi> &amp;c. that is, they were so, but now other<g ref="char:EOLhyphen"/>wise; a Woman keeps her Husbands Name though Divorced for Whoredom; so <hi>Rome</hi> (*) was Gods Temple and Christs Church, but when <gap reason="illegible" resp="#AELD" extent="1 letter">
@@ -2547,7 +2547,7 @@ ruined; 'tis said, <hi>Isai.1.21. How is the faithful Ci<g ref="char:EOLhyphen"/
                      <l>By him she was supported all along,</l>
                      <l>By his Imposture she was rendred strong.</l>
                      <l>
-                        <pb n="54" facs="tcp:000344_0061_0FA4AB92E5948390"/>
+                        <pb n="54" facs="unknown:000344_0061_0FA4AB92E5948390"/>
 This Mark that <note n="(†)" place="bottom">It hath been a received Opinion of some Chri<g ref="char:EOLhyphen"/>stians of late times, that the <hi>B ast</hi> who is the Anti<g ref="char:EOLhyphen"/>christ of Man of Sin, shall not arise till the Who<gap reason="illegible" resp="#AELD" extent="2 letters">
                               <desc>••</desc>
                            </gap> is destroyed, and that when he comes he shall only Reign 3 Years and a half. Which Notion may see<gap reason="illegible" resp="#AELD" extent="1 letter">
@@ -2574,7 +2574,7 @@ This Mark that <note n="(†)" place="bottom">It hath been a received Opinion of
                   </lg>
                </div>
                <div n="7" type="mark">
-                  <pb n="55" facs="tcp:000344_0062_0FA4AB9415566700"/>
+                  <pb n="55" facs="unknown:000344_0062_0FA4AB9415566700"/>
                   <head>The Seventh MARK.</head>
                   <lg>
                      <l>THe Holy Spirit most expresly saith,</l>
@@ -2632,7 +2632,7 @@ This Mark that <note n="(†)" place="bottom">It hath been a received Opinion of
                   </lg>
                </div>
                <div n="8" type="mark">
-                  <pb n="56" facs="tcp:000344_0063_0FA4AB94A3456B40"/>
+                  <pb n="56" facs="unknown:000344_0063_0FA4AB94A3456B40"/>
                   <head>The Eighth MARK.</head>
                   <lg>
                      <l>HE's not content to be Supream below,</l>
@@ -2664,7 +2664,7 @@ This Mark that <note n="(†)" place="bottom">It hath been a received Opinion of
                            <desc>〈◊〉</desc>
                         </gap> chief of all, as second unto none.</l>
                      <l>
-                        <pb n="57" facs="tcp:000344_0064_0FA4AB9651121248"/>
+                        <pb n="57" facs="unknown:000344_0064_0FA4AB9651121248"/>
 A brace of <hi>Keys</hi> he carrys in his hand;</l>
                      <l>To shut and open at his own Command.</l>
                      <l>He <hi>Curses</hi> and <hi>Absolves,</hi> he <hi>Binds, Releases;</hi>
@@ -2681,14 +2681,14 @@ A brace of <hi>Keys</hi> he carrys in his hand;</l>
                   </lg>
                </div>
                <div n="9" type="mark">
-                  <pb n="58" facs="tcp:000344_0065_0FA4AB96A5627AF8"/>
+                  <pb n="58" facs="unknown:000344_0065_0FA4AB96A5627AF8"/>
                   <head>The Ninth MARK.</head>
                   <lg>
                      <l>FAlse Miracles and Lying Wonders too</l>
                      <l>This grand Deceiver does pretend to do <note n="(a)" place="bottom">
                            <p>Even him whose coming is after the working of Satan with all Power, and Signs, and lying Wonders, <hi>2 Thes.2.9.</hi> B<hi>ellarmine</hi> (de not <hi>Eccl.</hi> 1.4.cap.14.) maketh Miracles one infallible sign of the true Church; and certain I am, the false and lying wonders of the <hi>Roman Church,</hi> clearly sheweth the Pope to be the <hi>Antichrist,</hi> or Son of Perdition. I have not room here to enumerate many of them, only take one of two, by which you may judge of the rest. One B<hi>ecanus's</hi> Head being off, St. Itas Prayers made it come posting through the Air, stand by the Body, and she joyned them fast again, so that in one hours space the Man became as lively as ever he had been in all his life.</p>
                            <p>
-                              <pb n="59" facs="tcp:000344_0066_0FA4AB9981889FB8"/>
+                              <pb n="59" facs="unknown:000344_0066_0FA4AB9981889FB8"/>
                               <hi>St. Anthony's</hi> Arm, that precious Relick at <hi>Geneva,</hi> was kiss'd and worship'd with great Devotion, whilst <hi>Popery</hi> kept its ground; but when the Gospel came, and the Relick was produced, 'twas found the pisle of a <hi>Stag, Calv. de reliq<gap reason="illegible" resp="#AELD" extent="1 letter">
                                     <desc>•</desc>
                                  </gap>prop.initiam.</hi> Possibly you may have heard of the Wonders that Relick had done; and of St. <hi>Decumanus,</hi> who carried his own head after it was cut off, to a Spring, and there wash<g ref="char:EOLhyphen"/>ed off the blood from it. A Countrey Curate, saith <hi>Erasmus</hi> getting Crabs, and fastening Candles to their backs, set them a crawling up and down the Church-Yard at night, and in the Morning after he had taken them in again, perswaded the People that they were poor distressed Souls in <hi>Purgatory,</hi> you must think such that wanted Masses and Almes, saith my Author; ye know the Proverb, <hi>No Penny, No Pater Noster:</hi> a fit Miracle to pick the Peoples Pockets. <hi>Lib.22.<gap reason="illegible" resp="#AELD" extent="1 letter">
@@ -2700,7 +2700,7 @@ A brace of <hi>Keys</hi> he carrys in his hand;</l>
                         </note>
                      </l>
                      <l>
-                        <pb n="58" facs="tcp:000344_0065_0FA4AB96A5627AF8"/>
+                        <pb n="58" facs="unknown:000344_0065_0FA4AB96A5627AF8"/>
 He fain would make th'abused World believe,</l>
                      <l>That he with Ease can make a Dead Man live.</l>
                      <l>They do such things, their <hi>Sottish Legend</hi> saith,</l>
@@ -2718,7 +2718,7 @@ He fain would make th'abused World believe,</l>
                   </lg>
                </div>
                <div n="10" type="mark">
-                  <pb n="60" facs="tcp:000344_0067_0FA4AB9AE0B0B2B8"/>
+                  <pb n="60" facs="unknown:000344_0067_0FA4AB9AE0B0B2B8"/>
                   <head>The Tenth MARK.</head>
                   <lg>
                      <l>HIS out Side's smooth, he's garb'd in Sheeps array,</l>
@@ -2737,7 +2737,7 @@ He fain would make th'abused World believe,</l>
                   </lg>
                </div>
                <div n="11" type="mark">
-                  <pb n="61" facs="tcp:000344_0068_0FA4AB9CA2664E10"/>
+                  <pb n="61" facs="unknown:000344_0068_0FA4AB9CA2664E10"/>
                   <head>The Eleventh MARK.</head>
                   <lg>
                      <l>TIs He that aims at th'utter Dissolution</l>
@@ -2760,7 +2760,7 @@ He fain would make th'abused World believe,</l>
                </div>
             </div>
             <div type="part">
-               <pb n="62" facs="tcp:000344_0069_0FA4AB9CB1176DB8"/>
+               <pb n="62" facs="unknown:000344_0069_0FA4AB9CB1176DB8"/>
                <head>SION'S SONS.</head>
                <lg>
                   <l>
@@ -2827,7 +2827,7 @@ He fain would make th'abused World believe,</l>
                   <l>
                      <hi>H</hi>is Name, shall pay him homage, as their Lord.</l>
                   <l>
-                     <pb n="63" facs="tcp:000344_0070_0FA4AB9D77478510"/>
+                     <pb n="63" facs="unknown:000344_0070_0FA4AB9D77478510"/>
 To <hi>JESUS</hi> all shall bow, he shall be King,</l>
                   <l>And to poor <hi>Sion</hi> shall Redemption bring.</l>
                   <l>Till this Beasts month, and latest hour be spent,</l>
@@ -2864,7 +2864,7 @@ To <hi>JESUS</hi> all shall bow, he shall be King,</l>
                   <l>Prompts on to <hi>Lust</hi> and all <hi>Debaucherits;</hi>
                   </l>
                   <l>
-                     <pb n="64" facs="tcp:000344_0071_0FA4AB9E428A2D50"/>
+                     <pb n="64" facs="unknown:000344_0071_0FA4AB9E428A2D50"/>
 By her <hi>fallacious</hi> and <hi>be witching Charms</hi>
                   </l>
                   <l>She does intice <hi>Great Men</hi> into her Arms,</l>
@@ -2918,7 +2918,7 @@ By her <hi>fallacious</hi> and <hi>be witching Charms</hi>
                         <desc>〈◊〉</desc>
                      </gap>, that the very sight</l>
                   <l>
-                     <pb n="65" facs="tcp:000344_0072_0FA4AB9F09C60788"/>
+                     <pb n="65" facs="unknown:000344_0072_0FA4AB9F09C60788"/>
 Of <hi>T<gap reason="illegible" resp="#AELD" extent="1 letter">
                            <desc>•</desc>
                         </gap>bu<gap reason="illegible" resp="#AELD" extent="1 letter">
@@ -2968,7 +2968,7 @@ Of <hi>T<gap reason="illegible" resp="#AELD" extent="1 letter">
                </lg>
             </div>
             <div type="part">
-               <pb n="66" facs="tcp:000344_0073_0FA4AB9FD2565DD0"/>
+               <pb n="66" facs="unknown:000344_0073_0FA4AB9FD2565DD0"/>
                <head>SION'S SONS.</head>
                <lg>
                   <l>THis Whore and Beast in Interest are so join'd</l>
@@ -3009,7 +3009,7 @@ Of <hi>T<gap reason="illegible" resp="#AELD" extent="1 letter">
                <p>
                   <hi>This Whore cannot be the</hi> Beast.</p>
                <lg>
-                  <pb n="67" facs="tcp:000344_0074_0FA4ABA0AF7DE1F8"/>
+                  <pb n="67" facs="unknown:000344_0074_0FA4ABA0AF7DE1F8"/>
                   <l>From him: the <hi>Whore's</hi> th' <note n="(b)" place="bottom">Though 'tis granted the Magistratical Power of Popish Kings in large sence is signified by the beast who do support the Ecclesiastick state or false Church, yet Originally it more strictly resides in the Pope, for by a voluntary submission to him: he is become their Master, as <hi>Du Moulin</hi> page 161. Observes their Crowns being at the Popes disposal, who takes it, and gives it (saith he) to whom he thinks good, which things have been noted by <hi>Buicciardine,</hi> that famous Historian in his History of the rises and advancements of the Pope.</note> 
                      <hi>Ecclesiastick</hi> State,</l>
                   <l>Or <hi>Romish Hierarchy,</hi> that take's her Seat</l>
@@ -3018,7 +3018,7 @@ Of <hi>T<gap reason="illegible" resp="#AELD" extent="1 letter">
                </lg>
             </div>
             <div type="part">
-               <pb n="68" facs="tcp:000344_0075_0FA4ABA1485095F8"/>
+               <pb n="68" facs="unknown:000344_0075_0FA4ABA1485095F8"/>
                <head>SION'S Sons.</head>
                <lg>
                   <l>SHall we (indanger'd by her Plots) arise.</l>
@@ -3052,7 +3052,7 @@ Of <hi>T<gap reason="illegible" resp="#AELD" extent="1 letter">
                   <l>I cannot blame them for this very thing,</l>
                   <l>To the whole World it will much glory bring.</l>
                   <l>
-                     <pb n="69" facs="tcp:000344_0076_0FA4ABA249723680"/>
+                     <pb n="69" facs="unknown:000344_0076_0FA4ABA249723680"/>
 Then shall the Gospel through the Earth be spread</l>
                   <l>And Men instead of Husks shall seed on Bread;</l>
                   <l>God's Worship shall its freedome then enjoy,</l>
@@ -3087,7 +3087,7 @@ Then shall the Gospel through the Earth be spread</l>
                   <l>To him you are to make your supplication,</l>
                   <l>For from him only is my expectation.</l>
                   <l>
-                     <pb n="70" facs="tcp:000344_0077_0FA4ABA2E9AA59F0"/>
+                     <pb n="70" facs="unknown:000344_0077_0FA4ABA2E9AA59F0"/>
 O sigh with me, and in your Spirits groan,</l>
                   <l>And send strong crys up to his gracious Throne:</l>
                   <l>Give him no rest till, (in those glorious days.)</l>
@@ -3122,7 +3122,7 @@ O sigh with me, and in your Spirits groan,</l>
                   <l>Will these protect the Innocent and good,</l>
                   <l>And not provoke thee with their crying blood?</l>
                   <l>
-                     <pb n="71" facs="tcp:000344_0078_0FA4ABA36BDF75E8"/>
+                     <pb n="71" facs="unknown:000344_0078_0FA4ABA36BDF75E8"/>
 Will they make Judgement in right channels go!</l>
                   <l>Extirpate Vice? Make Righteousness to flow</l>
                   <l>Like mighty streams? are they in Covenant</l>
@@ -3161,7 +3161,7 @@ Will they make Judgement in right channels go!</l>
                         <desc>•</desc>
                      </gap>thers, and Adultery,</l>
                   <l>
-                     <pb n="72" facs="tcp:000344_0079_0FA4ABA4470EC340"/>
+                     <pb n="72" facs="unknown:000344_0079_0FA4ABA4470EC340"/>
 Mount up to <hi>H</hi>eavens great Imperial Throne,</l>
                   <l>If thy Oppression makes thy Churches groan<gap reason="illegible" resp="#AELD" extent="1 letter">
                         <desc>•</desc>
@@ -3203,7 +3203,7 @@ Mount up to <hi>H</hi>eavens great Imperial Throne,</l>
                   <l>Thou canst the Prostrate raise, and cure his wound</l>
                   <l>For nothing difficult for thee is found.</l>
                   <l>
-                     <pb n="73" facs="tcp:000344_0080_0FA4ABA4EA9B6110"/>
+                     <pb n="73" facs="unknown:000344_0080_0FA4ABA4EA9B6110"/>
 Thou knowest my grief, O Lord, incline th<gap reason="illegible" resp="#AELD" extent="1 letter">
                         <desc>•</desc>
                      </gap> 
@@ -3241,7 +3241,7 @@ Thou knowest my grief, O Lord, incline th<gap reason="illegible" resp="#AELD" ex
                   <l>Make up her Hedge, her Fence, be thou a Wall,</l>
                   <l>To keep her from the violence of all</l>
                   <l>
-                     <pb n="74" facs="tcp:000344_0081_0FA4ABA5D5026718"/>
+                     <pb n="74" facs="unknown:000344_0081_0FA4ABA5D5026718"/>
 Rapacious Bears, and from the greedy Boar</l>
                   <l>That would destroy it, and its fruit devour.</l>
                   <l>Lord from on high thy lovely Vine behold,</l>
@@ -3281,7 +3281,7 @@ Rapacious Bears, and from the greedy Boar</l>
                </lg>
             </div>
             <div type="part">
-               <pb n="75" facs="tcp:000344_0082_0FA4ABA6D4B0B8F0"/>
+               <pb n="75" facs="unknown:000344_0082_0FA4ABA6D4B0B8F0"/>
                <head>SION'S Sons.</head>
                <lg>
                   <l>MOurn mouth O Heav'ns, and thou, O Earth</l>
@@ -3320,7 +3320,7 @@ Rapacious Bears, and from the greedy Boar</l>
                   <l>In dreadful Agonies, in bitter pain,</l>
                   <l>How can we brook her Enemies disdain?</l>
                   <l>
-                     <pb n="76" facs="tcp:000344_0083_0FA4ABA851B8F8D8"/>
+                     <pb n="76" facs="unknown:000344_0083_0FA4ABA851B8F8D8"/>
 She is reproached by ev'ry Drunken Sot,</l>
                   <l>And thrown away like to a broken Pot.</l>
                   <l>She is despis'd and trod upon like Dung,</l>
@@ -3354,7 +3354,7 @@ She is reproached by ev'ry Drunken Sot,</l>
                </lg>
             </div>
             <div type="part">
-               <pb n="77" facs="tcp:000344_0084_0FA4ABA8F81285D0"/>
+               <pb n="77" facs="unknown:000344_0084_0FA4ABA8F81285D0"/>
                <head>SION.</head>
                <lg>
                   <l>I Am afraid my God hath me forsook,</l>
@@ -3395,7 +3395,7 @@ She is reproached by ev'ry Drunken Sot,</l>
                      </gap>ne Ears continually,</l>
                   <l>I hear a bitter, and complaining cry.</l>
                   <l>
-                     <pb n="78" facs="tcp:000344_0085_0FA4ABAA6059EBE0"/>
+                     <pb n="78" facs="unknown:000344_0085_0FA4ABAA6059EBE0"/>
 I feel my Bowels with compassion move,</l>
                   <l>And therefore 'tis the voice of one I love,</l>
                   <l>She whom I purchas'd with my dearest blood,</l>
@@ -3441,7 +3441,7 @@ I feel my Bowels with compassion move,</l>
                   <l>
                      <hi>I</hi>'ll make them to the Rocks and Mountains fly;</l>
                   <l>
-                     <pb n="79" facs="tcp:000344_0086_0FA4ABAAE4CCAF50"/>
+                     <pb n="79" facs="unknown:000344_0086_0FA4ABAAE4CCAF50"/>
 Though with the powers of hell they have combin'd</l>
                   <l>
                      <hi>I</hi> will pursue them, and they shall not find</l>
@@ -3486,7 +3486,7 @@ Though with the powers of hell they have combin'd</l>
                   <l>Because thou dost my holy Name profess.</l>
                   <l>He break in pieces them that thee oppress:</l>
                   <l>
-                     <pb n="80" facs="tcp:000344_0087_0FA4ABAD7508F338"/>
+                     <pb n="80" facs="unknown:000344_0087_0FA4ABAD7508F338"/>
 Arm'd with Commission from the great <hi>Jehove,</hi>
                   </l>
                   <l>I will come down and all thy Griefs remove.</l>
@@ -3522,7 +3522,7 @@ Arm'd with Commission from the great <hi>Jehove,</hi>
                   <l>In Heav'n or Earth, were there ten thousand more</l>
                   <l>For thou hast found a Salve for every Sore.</l>
                   <l>
-                     <pb n="81" facs="tcp:000344_0088_0FA4ABAEF0C9AB78"/>
+                     <pb n="81" facs="unknown:000344_0088_0FA4ABAEF0C9AB78"/>
                      <hi>Transported by thy Love, with joy I cry,</hi>
                   </l>
                   <l>
@@ -3569,7 +3569,7 @@ Arm'd with Commission from the great <hi>Jehove,</hi>
                   <l>Which is a sure defence to all that fly</l>
                   <l>With care and speed from their iniquity.</l>
                   <l>
-                     <pb n="82" facs="tcp:000344_0089_0FA4ABAF79D62318"/>
+                     <pb n="82" facs="unknown:000344_0089_0FA4ABAF79D62318"/>
 When <hi>I</hi> was down, thou list'st me up on high,</l>
                   <l>
                      <gap reason="illegible" resp="#AELD" extent="1 letter">
@@ -3615,7 +3615,7 @@ When <hi>I</hi> was down, thou list'st me up on high,</l>
                   </l>
                </lg>
                <lg>
-                  <pb n="83" facs="tcp:000344_0090_0FA4ABB026CAD110"/>
+                  <pb n="83" facs="unknown:000344_0090_0FA4ABB026CAD110"/>
                   <head>BABYLON.</head>
                   <l>POOR Sion! <hi>thou art much mistaken:</hi>
                   </l>
@@ -3692,7 +3692,7 @@ When <hi>I</hi> was down, thou list'st me up on high,</l>
                   <l>
                      <hi>To crush thy feeble</hi> Pigmy-Sons.</l>
                   <l>
-                     <pb n="84" facs="tcp:000344_0091_0FA4ABB0E7152080"/>
+                     <pb n="84" facs="unknown:000344_0091_0FA4ABB0E7152080"/>
                      <hi>Let but his</hi> Bull<hi>s give an</hi> Alarm,</l>
                   <l>
                      <hi>Hee'll make all</hi> Christendome <hi>to Arm</hi>
@@ -3776,7 +3776,7 @@ When <hi>I</hi> was down, thou list'st me up on high,</l>
                   <l>
                      <hi>And lay them sprawling at my</hi> Foot.</l>
                   <l>
-                     <pb n="85" facs="tcp:000344_0092_0FA4ABB1ADFF2580"/>
+                     <pb n="85" facs="unknown:000344_0092_0FA4ABB1ADFF2580"/>
                      <hi>I've</hi> Teagues <hi>and</hi> Torys <hi>at my beck,</hi>
                   </l>
                   <l>
@@ -3860,7 +3860,7 @@ When <hi>I</hi> was down, thou list'st me up on high,</l>
                   <l>
                      <hi>What canst thou do then but</hi> Despair?</l>
                   <l>
-                     <pb n="86" facs="tcp:000344_0093_0FA4ABB26862A368"/>
+                     <pb n="86" facs="unknown:000344_0093_0FA4ABB26862A368"/>
                      <hi>Thou s<gap reason="illegible" resp="#AELD" extent="1 letter">
                            <desc>•</desc>
                         </gap>est me loag'd in</hi> safe abode,</l>
@@ -3922,7 +3922,7 @@ When <hi>I</hi> was down, thou list'st me up on high,</l>
                            <desc>•</desc>
                         </gap>witcht,</hi> they then will find.</l>
                   <l>
-                     <pb n="87" facs="tcp:000344_0094_0FA4ABB38C147010"/>
+                     <pb n="87" facs="unknown:000344_0094_0FA4ABB38C147010"/>
 By thine <hi>alluring Voice,</hi> and <hi>lustful Eye,</hi>
                   </l>
                   <l>To joyn with thee in black iniquity.</l>
@@ -3973,7 +3973,7 @@ By thine <hi>alluring Voice,</hi> and <hi>lustful Eye,</hi>
                   <l>Who only waits for <hi>Justices Commands.</hi>
                   </l>
                   <l>
-                     <pb n="88" facs="tcp:000344_0095_0FA4ABB40F483370"/>
+                     <pb n="88" facs="unknown:000344_0095_0FA4ABB40F483370"/>
                      <hi>Jehovah</hi> bids, that <hi>Babylon</hi> the great</l>
                   <l>Be forthwith brought before his <hi>Judgment Seat.</hi>
                   </l>
@@ -4014,7 +4014,7 @@ By thine <hi>alluring Voice,</hi> and <hi>lustful Eye,</hi>
                   <l>By th'Name of <hi>BABYLON,</hi> thou'rt hither cited,</l>
                   <l>And by the Name of <hi>Whore,</hi> thou stand'st Indicted.</l>
                   <l>
-                     <pb n="89" facs="tcp:000344_0096_0FA4ABB59B5D14C8"/>
+                     <pb n="89" facs="unknown:000344_0096_0FA4ABB59B5D14C8"/>
 Thou void of <hi>Grace,</hi> and Gods most <hi>
                         <gap reason="illegible" resp="#AELD" extent="1 letter">
                            <desc>•</desc>
@@ -4180,7 +4180,7 @@ Thou void of <hi>Grace,</hi> and Gods most <hi>
                   <l>In times of <hi>Peace</hi> thy horrid rage has shed</l>
                   <l>Blood without Measure, thou hast murtuered.</l>
                   <l>
-                     <pb n="90" facs="tcp:000344_0097_0FA4ABB62592F908"/>
+                     <pb n="90" facs="unknown:000344_0097_0FA4ABB62592F908"/>
                      <hi>(Perfidious Wretch!)</hi> thy nearest Neighbours when</l>
                   <l>They thought themselves <hi>the most secure of men,</hi>
                   </l>
@@ -4236,7 +4236,7 @@ Thou void of <hi>Grace,</hi> and Gods most <hi>
                   <l>Is lawful, honest, and your Duty too.</l>
                </lg>
                <lg>
-                  <pb n="91" facs="tcp:000344_0098_0FA4ABB92070B7D0"/>
+                  <pb n="91" facs="unknown:000344_0098_0FA4ABB92070B7D0"/>
                   <head>JUSTICE</head>
                   <l>PLead <hi>Vile Delinquent!</hi> or thou shalt receive</l>
                   <l>The <hi>Fatal Sentence</hi> which I am to give.</l>
@@ -4279,7 +4279,7 @@ Thou void of <hi>Grace,</hi> and Gods most <hi>
                   <l>It clearly follows from these <hi>Marks,</hi> that thou</l>
                   <l>Art a meer <hi>strumpet,</hi> and hast broke thy Vow.</l>
                   <l>
-                     <pb n="92" facs="tcp:000344_0099_0FA4ABF84EF4CBE0"/>
+                     <pb n="92" facs="unknown:000344_0099_0FA4ABF84EF4CBE0"/>
 If thou art by the <hi>Papal Edicts</hi> led,</l>
                   <l>Disowning Christ, and making <hi>that</hi> thy Head:</l>
                   <l>The consequence is clear, for thou must be</l>
@@ -4325,7 +4325,7 @@ If thou art by the <hi>Papal Edicts</hi> led,</l>
                   <l>Our Brethrens Brains out of their heads were beaten</l>
                   <l>And by her Imps were fry'd and after eaten:</l>
                   <l>
-                     <pb n="93" facs="tcp:000344_0100_0FA4ABF8E8F19CF8"/>
+                     <pb n="93" facs="unknown:000344_0100_0FA4ABF8E8F19CF8"/>
 Our Children rent to pieces, thrown to Dogs,</l>
                   <l>And our dear Pastors flung (as Meat) to Hogs;</l>
                   <l>Others on Pikes into the Air were tost,</l>
@@ -4378,7 +4378,7 @@ Our Children rent to pieces, thrown to Dogs,</l>
                   <l>And many other deaths she did contrive:</l>
                   <l>Some burned were, and others flead alive.</l>
                   <l>
-                     <pb n="94" facs="tcp:000344_0101_0FA4ABF9A6BA7D60"/>
+                     <pb n="94" facs="unknown:000344_0101_0FA4ABF9A6BA7D60"/>
 into deep Mines, three thousand Souls and more,</l>
                   <l>At several times were tumbled by this <hi>whore,</hi>
                   </l>
@@ -4419,7 +4419,7 @@ into deep Mines, three thousand Souls and more,</l>
                   <l>How many thousand guiltless Christians were</l>
                   <l>Butcher'd in the <hi>Parisian</hi> Massacre?</l>
                   <l>
-                     <pb n="95" facs="tcp:000344_0102_0FA4ABFA68703028"/>
+                     <pb n="95" facs="unknown:000344_0102_0FA4ABFA68703028"/>
 Some broke on <hi>Crosses,</hi> some were cut in twain,</l>
                   <l>Whilst others languish in a lingring pain,</l>
                   <l>Our worthy Kings have lost their Noble Lives</l>
@@ -4459,7 +4459,7 @@ Some broke on <hi>Crosses,</hi> some were cut in twain,</l>
                            <desc>•</desc>
                         </gap>ll)</hi> we're put.</l>
                   <l>
-                     <pb n="96" facs="tcp:000344_0103_0FA4ABFB571B3110"/>
+                     <pb n="96" facs="unknown:000344_0103_0FA4ABFB571B3110"/>
 They say they favour us, when they employ</l>
                   <l>Their Daggers, Pistols, A<gap reason="illegible" resp="#AELD" extent="1 letter">
                         <desc>•</desc>
@@ -4538,7 +4538,7 @@ They say they favour us, when they employ</l>
                   <l>With joy, that <hi>Romish,</hi> and rebellious Brood</l>
                   <l>Have wash't their hands in Martyr'd <hi>English</hi> blood.</l>
                   <l>
-                     <pb n="97" facs="tcp:000344_0104_0FA4ABFBEAAF1020"/>
+                     <pb n="97" facs="unknown:000344_0104_0FA4ABFBEAAF1020"/>
 Thousands of naked Protestants that fled</l>
                   <l>From these <hi>Barbarians</hi> have been famished.</l>
                   <l>Their faithless Gentry, that pretended love;</l>
@@ -4587,7 +4587,7 @@ Thousands of naked Protestants that fled</l>
                      </gap>arest Mother,</l>
                   <l>And then one Brother to destroy the other.</l>
                   <l>
-                     <pb n="98" facs="tcp:000344_0105_0FA4ABFCAC5A62A8"/>
+                     <pb n="98" facs="unknown:000344_0105_0FA4ABFCAC5A62A8"/>
 Some they put fast in Stocks, then teach a Brat</l>
                   <l>To rip them, and make Candles of their Fat.</l>
                   <l>How many Virgins did they Ravish first?</l>
@@ -4624,7 +4624,7 @@ Some they put fast in Stocks, then teach a Brat</l>
                   <l>The sufferings of my guiltless Natives, were</l>
                   <l>Equal with theirs in every tittle there.</l>
                   <l>
-                     <pb n="99" facs="tcp:000344_0106_0FA4ABFD659C4BC0"/>
+                     <pb n="99" facs="unknown:000344_0106_0FA4ABFD659C4BC0"/>
                      <gap reason="illegible" resp="#AELD" extent="1 letter">
                         <desc>•</desc>
                      </gap>et this blood thirsty Curtezan of <hi>Rome,</hi>
@@ -4690,7 +4690,7 @@ Some they put fast in Stocks, then teach a Brat</l>
                   <l>And from the Judge expect a quick relief.</l>
                </lg>
                <lg>
-                  <pb n="100" facs="tcp:000344_0107_0FA4ABFF14A6FCC0"/>
+                  <pb n="100" facs="unknown:000344_0107_0FA4ABFF14A6FCC0"/>
                   <head>ENGLAND.</head>
                   <l>HAD I as many Tongues at my commands,</l>
                   <l>As <hi>Argus</hi> Eyes, <hi>Briareus</hi> Hands;</l>
@@ -4721,7 +4721,7 @@ Some they put fast in Stocks, then teach a Brat</l>
                   <l>The Papal Beast could in a Frolick tell,</l>
                   <l>I was his Fountain inexhaustible.</l>
                   <l>
-                     <pb n="101" facs="tcp:000344_0108_0FA4AC00C8D6E0E0"/>
+                     <pb n="101" facs="unknown:000344_0108_0FA4AC00C8D6E0E0"/>
                      <gap reason="illegible" resp="#AELD" extent="1 letter">
                         <desc>•</desc>
                      </gap>he planted Priests, and Ganimedes she rooted,</l>
@@ -4760,7 +4760,7 @@ Some they put fast in Stocks, then teach a Brat</l>
                   <l>Her spite and malice nothing will abate,</l>
                   <l>Its still more deadly and inveterate.</l>
                   <l>
-                     <pb n="102" facs="tcp:000344_0109_0FA4AC01586C1EF8"/>
+                     <pb n="102" facs="unknown:000344_0109_0FA4AC01586C1EF8"/>
 Dread Providence shall ever have my thanks;</l>
                   <l>That has discover'd her infernal pranks;</l>
                   <l>Yet I am still in danger, and therefore</l>
@@ -4799,7 +4799,7 @@ Dread Providence shall ever have my thanks;</l>
                   <l>By thy curs'd crew were Women ravished,</l>
                   <l>Who then (like Butchers) knockt them on the head.</l>
                   <l>
-                     <pb n="103" facs="tcp:000344_0110_0FA4AC032AB5B358"/>
+                     <pb n="103" facs="unknown:000344_0110_0FA4AC032AB5B358"/>
 Some had their Eyes and Tongues by thee pull'd out</l>
                   <l>Some were made harborless, and forc'd about</l>
                   <l>To wander, till in Woods and dismal Caves</l>
@@ -4842,7 +4842,7 @@ Some had their Eyes and Tongues by thee pull'd out</l>
                   <l>Thou madest thy <hi>Vassals</hi> fall upon that Nation,</l>
                   <l>On no less penalty than their Damnation.</l>
                   <l>
-                     <pb n="104" facs="tcp:000344_0111_0FA4AC0369BFF530"/>
+                     <pb n="104" facs="unknown:000344_0111_0FA4AC0369BFF530"/>
 Didst thou <gap reason="illegible" resp="#AELD" extent="1 letter">
                         <desc>•</desc>
                      </gap>ot promise upon that condition</l>
@@ -4899,7 +4899,7 @@ Didst thou <gap reason="illegible" resp="#AELD" extent="1 letter">
                   <l>
                      <hi>I</hi>n fifty years were many <hi>Missions</hi> slain.</l>
                   <l>
-                     <pb n="105" facs="tcp:000344_0112_0FA4AC0668BDB3E8"/>
+                     <pb n="105" facs="unknown:000344_0112_0FA4AC0668BDB3E8"/>
 The poor <hi>Waldenses</hi> whose enlighted eye</l>
                   <l>Thy filthy Whoredoms quickly did espy.</l>
                   <l>Thou hast with raging Persecutions rent</l>
@@ -4942,7 +4942,7 @@ The poor <hi>Waldenses</hi> whose enlighted eye</l>
                   <l>
                      <hi>T</hi>hy Powder-Treason, nor thy Modern Plot:</l>
                   <l>
-                     <pb n="106" facs="tcp:000344_0113_0FA4AC089A43E468"/>
+                     <pb n="106" facs="unknown:000344_0113_0FA4AC089A43E468"/>
 Nor all thy dismal Villanies that were</l>
                   <l>Done <gap reason="illegible" resp="#AELD" extent="1 letter">
                         <desc>•</desc>
@@ -4979,7 +4979,7 @@ Nor all thy dismal Villanies that were</l>
                   <l>As was their Pride, Rebellion, Wickedness.</l>
                </lg>
                <lg>
-                  <pb n="107" facs="tcp:000344_0114_0FA4AC08A76ACA30"/>
+                  <pb n="107" facs="unknown:000344_0114_0FA4AC08A76ACA30"/>
                   <head>JUDGE.</head>
                   <l>THOU graceless Wretch, thou art b<gap reason="illegible" resp="#AELD" extent="1 letter">
                         <desc>•</desc>
@@ -5012,7 +5012,7 @@ Nor all thy dismal Villanies that were</l>
                   <l>Thy Pardon-Merchants then shall cry and bowl</l>
                   <l>And thy Destruction (in this sort) condole.</l>
                   <l>
-                     <pb n="103" facs="tcp:000344_0115_0FA4AC099633AF70"/>
+                     <pb n="103" facs="unknown:000344_0115_0FA4AC099633AF70"/>
 'Illustrious City thou were great and sair,</l>
                   <l>'Most brave and sumptuous, ev'n beyond compare.</l>
                   <l>'Alas! how quickly are thy Judgements come,</l>
@@ -5049,7 +5049,7 @@ Nor all thy dismal Villanies that were</l>
                   <l>Who is decypher'd by prodigious things;</l>
                   <l>His <hi>v</hi>e! Horns (explain'd) are Crowned Kings.</l>
                   <l>
-                     <pb n="109" facs="tcp:000344_0116_0FA4AC0A99EB9AD8"/>
+                     <pb n="109" facs="unknown:000344_0116_0FA4AC0A99EB9AD8"/>
 And then this mighty wonder to compleat,</l>
                   <l>She's placed on a Seven hilled Seat;</l>
                   <l>She's stil<gap reason="illegible" resp="#AELD" extent="1 letter">
@@ -5090,7 +5090,7 @@ And then this mighty wonder to compleat,</l>
                   <l>
                      <hi>A</hi>nd on a Sev'n hill'd <hi>H</hi>abitation sits,</l>
                   <l>
-                     <pb n="110" facs="tcp:000344_0117_0FA4AC0B1F5E8480"/>
+                     <pb n="110" facs="unknown:000344_0117_0FA4AC0B1F5E8480"/>
                      <note n="*" place="margin">
                         <hi>Re.</hi> 17. 18</note> The holy Angel of the Lord explains</l>
                   <l>That 'tis that City which so proudly Reigns</l>
@@ -5127,7 +5127,7 @@ And then this mighty wonder to compleat,</l>
                   <l>On th'a blest guides she laid her hellish hands,</l>
                   <l>Confining them to Prison under Bands;</l>
                   <l>
-                     <pb n="111" facs="tcp:000344_0118_0FA4AC0BDBEFD330"/>
+                     <pb n="111" facs="unknown:000344_0118_0FA4AC0BDBEFD330"/>
 As if 'twere not enough for her to do,</l>
                   <l>She seiz'd their persons, and their substance too.</l>
                   <l>Did <hi>Babylon</hi> Gods Worship over throw,</l>
@@ -5175,7 +5175,7 @@ As if 'twere not enough for her to do,</l>
                   <l>Tis she declares him Universal Head,</l>
                   <l>Tis she forbids the <hi>Bible</hi> to be read.</l>
                   <l>
-                     <pb n="112" facs="tcp:000344_0119_0FA4AC0C88D229D8"/>
+                     <pb n="112" facs="unknown:000344_0119_0FA4AC0C88D229D8"/>
 'Tis she that first did from the Faith depart,</l>
                   <l>'Tis she that wounded <hi>Sion</hi> to the heart:</l>
                   <l>'Tis she hath been the occasion of all evil,</l>
@@ -5219,7 +5219,7 @@ As if 'twere not enough for her to do,</l>
             </div>
          </div>
          <div type="sentence">
-            <pb n="113" facs="tcp:000344_0120_0FA4AC0D43676620"/>
+            <pb n="113" facs="unknown:000344_0120_0FA4AC0D43676620"/>
             <head>THE SENTENCE.</head>
             <p>
                <hi>ROME, Thou hast been Indicted by the Name of</hi> Mystery, Babylon, Mother of Harlots, Scarlet coloured Whore, <hi>and</hi> False Church, <hi>or</hi> pretended Spouse of Jesus Christ. <hi>And found guil<g ref="char:EOLhyphen"/>ty of all these horrid and prodigious Crimes, follow<g ref="char:EOLhyphen"/>ing:</hi>
@@ -5230,7 +5230,7 @@ As if 'twere not enough for her to do,</l>
                   </gap> themselves the worst of Men. Thou hast made Nurseries of</hi> Priests <hi>and</hi> vile Men, <hi>and impowred them to take Confessions for Money, and forgive sins. Thou hast hypocritically abused all sorts of People, by persuading them that thou hast power to hea<gap reason="illegible" resp="#AELD" extent="1 letter">
                      <desc>•</desc>
                   </gap> their Souls here, and help them hereafter, by which cursed frauds thou hast drawn a great part of the Riches of</hi> Europe <hi>into thine unhallowed hands. Thou hast laid</hi> Close Siege <hi>to the Courts of Princes, and drawn them into the highest strains of Wicked<g ref="char:EOLhyphen"/>ness,
-<pb n="114" facs="tcp:000344_0121_0FA4AC0E0CFE37B8"/>
+<pb n="114" facs="unknown:000344_0121_0FA4AC0E0CFE37B8"/>
 ness, to commit</hi> Fornication, <hi>promote</hi> Idolatry, <hi>and take away the lives of</hi> Innocents. <hi>Thou hast lay<gap reason="illegible" resp="#AELD" extent="1 letter">
                      <desc>•</desc>
                   </gap> in wait (where they would not fulfil thy bloody and bar<g ref="char:EOLhyphen"/>barons L<gap reason="illegible" resp="#AELD" extent="1 letter">
@@ -5246,7 +5246,7 @@ ness, to commit</hi> Fornication, <hi>promote</hi> Idolatry, <hi>and take away t
                   </gap>l and boiling Lead—Blowing their Heads in pieces with G<gap reason="illegible" resp="#AELD" extent="2 letters">
                      <desc>••</desc>
                   </gap> powder; thou hast made Women Widows, Children Fatherless; Houses and Villages Towns and Cities without Inhabitants. Thou hast
-<pb n="115" facs="tcp:000344_0122_0FA4AC0EB71ACFC0"/>
+<pb n="115" facs="unknown:000344_0122_0FA4AC0EB71ACFC0"/>
 destroyed by Fire and Sword and all manner of Hosti<g ref="char:EOLhyphen"/>lities and Outrages. Thou hast fomented Wars he<g ref="char:EOLhyphen"/>
                   <gap reason="illegible" resp="#AELD" extent="1 letter">
                      <desc>•</desc>
@@ -5268,7 +5268,7 @@ destroyed by Fire and Sword and all manner of Hosti<g ref="char:EOLhyphen"/>liti
             </p>
          </div>
          <div type="poem">
-            <pb n="116" facs="tcp:000344_0123_0FA4AC0F69B7B7D0"/>
+            <pb n="116" facs="unknown:000344_0123_0FA4AC0F69B7B7D0"/>
             <head>The Authors Request.</head>
             <lg>
                <head>I</head>
@@ -5297,7 +5297,7 @@ destroyed by Fire and Sword and all manner of Hosti<g ref="char:EOLhyphen"/>liti
                      <desc>••</desc>
                   </gap>at to thee <hi>I</hi> cry;</l>
                <l>
-                  <pb n="117" facs="tcp:000344_0124_0FA4AC10387435A0"/>
+                  <pb n="117" facs="unknown:000344_0124_0FA4AC10387435A0"/>
 Such with a puff are ost to nothing hurl'd,</l>
                <l>They get them wings, and from possessors fly.</l>
                <l>All sublunary things uncertain be;</l>
@@ -5337,7 +5337,7 @@ Such with a puff are ost to nothing hurl'd,</l>
                <l>And happy be, when e'er <hi>I</hi> come to die.</l>
             </lg>
             <lg>
-               <pb n="118" facs="tcp:000344_0125_0FA4AC119EFA6B80"/>
+               <pb n="118" facs="unknown:000344_0125_0FA4AC119EFA6B80"/>
                <head>VII.</head>
                <l>Let thy good Spirit be my blessed Guide,</l>
                <l>And in thy House let me for ever dwell;</l>
@@ -5381,7 +5381,7 @@ Such with a puff are ost to nothing hurl'd,</l>
                   </gap> be still repos'd in thee;</l>
                <l>Relax thy scourge, or add unto my strength;</l>
                <l>
-                  <pb n="119" facs="tcp:000344_0126_0FA4AC11ACA4A278"/>
+                  <pb n="119" facs="unknown:000344_0126_0FA4AC11ACA4A278"/>
 Be thou my way, my strength, my light, that I</l>
                <l>May learn to live, and in thy favour die.</l>
             </lg>
@@ -5418,7 +5418,7 @@ Be thou my way, my strength, my light, that I</l>
                <l>Thy Children are as (many) Members joyn'd</l>
                <l>Which make one body, whose blest <hi>H</hi>ead thou art,</l>
                <l>
-                  <pb n="120" facs="tcp:000344_0127_0FA4AC129266AD98"/>
+                  <pb n="120" facs="unknown:000344_0127_0FA4AC129266AD98"/>
 O cause them with an undivided mind</l>
                <l>And perfect Union, to have all one heart:</l>
                <l>Then shall <hi>I</hi> hope to see a blest increase</l>
@@ -5456,7 +5456,7 @@ O cause them with an undivided mind</l>
                <l>Ascribe the Glory to thy blessed Name.</l>
             </lg>
             <lg>
-               <pb n="121" facs="tcp:000344_0128_0FA4AC132DF03D18"/>
+               <pb n="121" facs="unknown:000344_0128_0FA4AC132DF03D18"/>
                <head>XVIII.</head>
                <l>I pray thee scatter our inraged Foes,</l>
                <l>And baffle all who proudly have combin'd</l>
@@ -5491,7 +5491,7 @@ O cause them with an undivided mind</l>
                <l>Destroy the Kingdom of the Scarlet Beast,</l>
                <l>Let Christ his Foes to conquer now go on,</l>
                <l>
-                  <pb n="122" facs="tcp:000344_0129_0FA4AC14B4504DB0"/>
+                  <pb n="122" facs="unknown:000344_0129_0FA4AC14B4504DB0"/>
 That on the top of <hi>Sion</hi> I may sing</l>
                <l>Aloud, <hi>Hosanna</hi> to the Highest King.</l>
             </lg>
@@ -5538,7 +5538,7 @@ That on the top of <hi>Sion</hi> I may sing</l>
             </lg>
          </div>
          <div type="poem">
-            <pb n="123" facs="tcp:000344_0130_0FA4AC1566481450"/>
+            <pb n="123" facs="unknown:000344_0130_0FA4AC1566481450"/>
             <head>An Alarm to the Wise and <gap reason="illegible" resp="#AELD" extent="2 letters">
                   <desc>••</desc>
                </gap>olish Virgins.</head>
@@ -5576,7 +5576,7 @@ That on the top of <hi>Sion</hi> I may sing</l>
                <l>the day of his great Power.</l>
             </lg>
             <lg>
-               <pb n="124" facs="tcp:000344_0131_0FA4AC1A2BCC95E0"/>
+               <pb n="124" facs="unknown:000344_0131_0FA4AC1A2BCC95E0"/>
                <head>V.</head>
                <l>With speed arise, lift up your Eyes,</l>
                <l>the Day-Star doth appear,</l>
@@ -5614,7 +5614,7 @@ That on the top of <hi>Sion</hi> I may sing</l>
                <l>their wosul State to see?</l>
             </lg>
             <lg>
-               <pb n="125" facs="tcp:000344_0132_0FA4AC1C08B07CC0"/>
+               <pb n="125" facs="unknown:000344_0132_0FA4AC1C08B07CC0"/>
                <head>X.</head>
                <l>You who remain so very vain,</l>
                <l>and in a formal state,</l>
@@ -5662,7 +5662,7 @@ That on the top of <hi>Sion</hi> I may sing</l>
                   </gap>in.</l>
             </lg>
             <lg>
-               <pb n="126" facs="tcp:000344_0133_0FA4AC1C5BDEEEF8"/>
+               <pb n="126" facs="unknown:000344_0133_0FA4AC1C5BDEEEF8"/>
                <head>XV.</head>
                <l>Come, hast away without delay,</l>
                <l>with all speed and endeavour,</l>
@@ -5698,7 +5698,7 @@ That on the top of <hi>Sion</hi> I may sing</l>
                <l>with his consuming Fire.</l>
             </lg>
             <lg>
-               <pb n="127" facs="tcp:000344_0134_0FA4AC1D07692BC8"/>
+               <pb n="127" facs="unknown:000344_0134_0FA4AC1D07692BC8"/>
                <head>XX.</head>
                <l>Alas poor Souls! be not such Fools</l>
                <l>to labour for the Wind,</l>
@@ -5741,7 +5741,7 @@ That on the top of <hi>Sion</hi> I may sing</l>
                   </gap>ifie.</l>
             </lg>
             <lg>
-               <pb n="128" facs="tcp:000344_0135_0FA4AC1DDD49C1C8"/>
+               <pb n="128" facs="unknown:000344_0135_0FA4AC1DDD49C1C8"/>
                <head>XXV.</head>
                <l>
                   <gap reason="illegible" resp="#AELD" extent="1 word">
